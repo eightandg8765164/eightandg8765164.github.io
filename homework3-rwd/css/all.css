@@ -597,36 +597,25 @@ h2{
 .footer-right{
 	position: absolute;
 	right:13%;
-	bottom:-75%;
+	bottom:-60%;
 }
 .footer-right2{
 	position: absolute;	
 	right:13%;
-	bottom:-109%;
+	bottom:-94%;
 
 }
-@media(max-width: 1024px)
-{
-	.footer-right{
-		right:10%;
-		bottom:-33%;
-	}
-	.footer-right2{
-		
-		right:13%;
-		bottom:-62%;
-	}
-}
+
 @media(max-width: 768px)
 {
 	.footer-right{
 		left:10%;
-		bottom:-178%;
+		bottom:-158%;
 	}
 	.footer-right2{
 		
 		right:8%;
-		bottom:-170%;
+		bottom:-150%;
 	}
 	.footer
 	{
@@ -638,12 +627,12 @@ h2{
 {
 	.footer-right{
 		left:8%;
-		bottom:-315%;
+		bottom:-285%;
 	}
 	.footer-right2{
 		
 		left:8%;
-		bottom:-345%;
+		bottom:-312%;
 	}
 	.footer
 	{
@@ -654,12 +643,12 @@ h2{
 {
 	.footer-right{
 		left:8%;
-		bottom:-305%;
+		bottom:-275%;
 	}
 	.footer-right2{
 		
 		left:8%;
-		bottom:-338%;
+		bottom:-308%;
 	}
 	.footer
 	{
